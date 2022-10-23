@@ -1,0 +1,22 @@
+nav {
+  min-height: 60px;
+  display: flex;
+  justify-content: space-between;
+  background: linear-gradient(
+      269.07deg,
+      rgba(53, 58, 192, 0.4) 30%,
+      rgba(53, 58, 192, 0) 60%
+    ),
+    #7eb1fd;
+
+  .logo {
+    //  display: inline-block;
+    //  height: 60px;
+    background: url('../static/img/shema_logo.png') center (center/cover)
+      no-repeat;
+  }
+  .links {
+    //  display: inline-block;
+    //  height: 50px;
+  }
+}
